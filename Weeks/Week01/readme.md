@@ -1,5 +1,5 @@
 
-# Week 1 (10/5): Introduction to spatial data science
+# Week 1 (10/5): Introduction to Spatial Data Science
 
 
 ## Lecture
